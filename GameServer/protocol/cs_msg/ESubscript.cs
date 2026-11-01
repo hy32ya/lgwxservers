@@ -1,0 +1,9 @@
+namespace cs_msg;
+
+public enum ESubscript
+{
+	RES_SUBSCRIPT_NONE,
+	RES_SUBSCRIPT_HOT,
+	RES_SUBSCRIPT_RECOMMEND,
+	RES_SUBSCRIPT_NEW
+}
