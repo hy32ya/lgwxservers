@@ -50,6 +50,8 @@ python -B tools/server_list_tool.py encrypt "修改后.json" "重新加密.txt" 
 
 ## 文件
 
+- [安卓安装包](https://github.com/hy32ya/lgwxservers/releases/download/v1.0.0.0/Client_v1.0.0.0.apk) · [还原 DLL](https://github.com/hy32ya/lgwxservers/releases/download/v1.0.0.0/ManagedDLL_v1.0.0.0.zip) · [客户端 C#](https://github.com/hy32ya/lgwxservers/releases/download/v1.0.0.0/CSharp_v1.0.0.0.zip)
+- 安装包和客户端还原文件统一放在 [v1.0.0.0 发布页](https://github.com/hy32ya/lgwxservers/releases/tag/v1.0.0.0)。还原的客户端 C# 供阅读参考，不是可直接编译的完整原工程。
 - `GameServer/`：C# 服务端源码、配置和 `v1.0.0.0` 程序。
 - `LocalLoginHook/`：本地登录源码、编译脚本和 `v1.0.0.0` 登录 SO。
 - `tools/server_list_tool.py`：改地址、解密和加密工具，无需额外 Python 库。
