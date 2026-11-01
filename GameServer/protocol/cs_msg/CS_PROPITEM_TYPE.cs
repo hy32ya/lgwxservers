@@ -1,0 +1,7 @@
+namespace cs_msg;
+
+public enum CS_PROPITEM_TYPE
+{
+	CS_PROPITEM_TYPE_NONE,
+	CS_PROPITEM_TYPE_VEHICLE
+}
