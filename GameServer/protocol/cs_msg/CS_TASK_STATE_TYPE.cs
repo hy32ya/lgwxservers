@@ -1,0 +1,9 @@
+namespace cs_msg;
+
+public enum CS_TASK_STATE_TYPE
+{
+	CS_TASK_STATE_NULL,
+	CS_TASK_STATE_ACCESS,
+	CS_TASK_STATE_SUBMIT,
+	CS_TASK_STATE_END
+}
