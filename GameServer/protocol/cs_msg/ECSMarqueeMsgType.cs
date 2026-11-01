@@ -1,0 +1,8 @@
+namespace cs_msg;
+
+public enum ECSMarqueeMsgType
+{
+	CS_MARQUEE_MSG_SYSTEM_NOTICE = 1,
+	CS_MARQUEE_MSG_ACTIVITY_INFO,
+	CS_MARQUEE_MSG_LEGO_LAND_INFO
+}
