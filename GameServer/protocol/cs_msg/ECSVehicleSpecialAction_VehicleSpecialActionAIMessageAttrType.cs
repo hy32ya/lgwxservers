@@ -1,0 +1,6 @@
+namespace cs_msg;
+
+public enum ECSVehicleSpecialAction_VehicleSpecialActionAIMessageAttrType
+{
+	CS_VehicleSpecialAction_VehicleSpecialActionAIMessage_cooldownTime = 1
+}

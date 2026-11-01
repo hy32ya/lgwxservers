@@ -1,0 +1,6 @@
+namespace cs_msg;
+
+public enum ECSVehicleSpecialAction_VehicleSpecialActionTogglePartAttrType
+{
+	CS_VehicleSpecialAction_VehicleSpecialActionTogglePart_cooldownTime = 1
+}

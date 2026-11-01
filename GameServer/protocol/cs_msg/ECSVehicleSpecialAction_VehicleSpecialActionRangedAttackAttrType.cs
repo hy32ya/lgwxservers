@@ -1,0 +1,6 @@
+namespace cs_msg;
+
+public enum ECSVehicleSpecialAction_VehicleSpecialActionRangedAttackAttrType
+{
+	CS_VehicleSpecialAction_VehicleSpecialActionRangedAttack_cooldownTime = 1
+}

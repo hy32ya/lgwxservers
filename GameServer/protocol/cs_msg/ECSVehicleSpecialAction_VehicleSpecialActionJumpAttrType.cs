@@ -1,0 +1,6 @@
+namespace cs_msg;
+
+public enum ECSVehicleSpecialAction_VehicleSpecialActionJumpAttrType
+{
+	CS_VehicleSpecialAction_VehicleSpecialActionJump_cooldownTime = 1
+}
