@@ -1,7 +1,0 @@
-namespace cs_msg;
-
-public enum EGlobalItemExchangeType
-{
-	RES_GLOBAL_ITEM_EXCHANGE_FOR_FLASH_CARD_COLLECT = 1,
-	RES_GLOBAL_ITEM_EXCHANGE_FOR_INVITE_PULL_NEW_ACTIVITY
-}

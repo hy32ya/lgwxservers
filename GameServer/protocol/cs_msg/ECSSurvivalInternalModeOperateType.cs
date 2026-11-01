@@ -1,7 +1,0 @@
-namespace cs_msg;
-
-public enum ECSSurvivalInternalModeOperateType
-{
-	CS_SURVIVAL_GAME_CREATIVE_STATUS_2_SURVIVAL_STATUS = 1,
-	CS_SURVIVAL_GAME_SURVIVAL_STATUS_2_CREATIVE_STATUS
-}

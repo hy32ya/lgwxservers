@@ -1,8 +1,0 @@
-namespace cs_msg;
-
-public enum ECSSearchWorkType
-{
-	CS_SEARCH_WORK_TYPE_AUTHOR_NAME = 1,
-	CS_SEARCH_WORK_TYPE_MAP_FILE_NAME,
-	CS_SEARCH_WORK_TYPE_PUBLISH_GID
-}

@@ -1,8 +1,0 @@
-namespace cs_msg;
-
-public enum ECSCareActivityTreeType
-{
-	CS_CARE_ACTIVITY_TREE_WATER,
-	CS_CARE_ACTIVITY_TREE_FERTILIZER,
-	CS_CARE_ACTIVITY_TREE_DISINSECTION
-}

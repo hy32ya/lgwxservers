@@ -1,8 +1,0 @@
-namespace cs_msg;
-
-public enum ECSAccountAuthType
-{
-	CS_ACCOUNT_AUTH_TYPE_NONE,
-	CS_ACCOUNT_AUTH_TYPE_CHILD,
-	CS_ACCOUNT_AUTH_TYPE_ADULT
-}

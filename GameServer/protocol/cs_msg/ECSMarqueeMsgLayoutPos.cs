@@ -1,9 +1,0 @@
-namespace cs_msg;
-
-public enum ECSMarqueeMsgLayoutPos
-{
-	CS_MARQUEE_MSG_POS_DEFAULT,
-	CS_MARQUEE_MSG_POS_LOBBY,
-	CS_MARQUEE_MSG_POS_LEGO_LAND,
-	CS_MARQUEE_MSG_POS_IN_WORLD
-}

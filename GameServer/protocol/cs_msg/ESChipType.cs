@@ -1,9 +1,0 @@
-namespace cs_msg;
-
-public enum ESChipType
-{
-	RES_CHIP_TYPE_NORMAL,
-	RES_CHIP_TYPE_MINIFIGURE,
-	RES_CHIP_TYPE_VEHICLE,
-	RES_CHIP_TYPE_LEGO_ZONE
-}

@@ -1,9 +1,0 @@
-namespace cs_msg;
-
-public enum CSDlgType
-{
-	CS_DLG_TYPE_UNDEFINE,
-	CS_DLG_TYPE_NORMAL,
-	CS_DLG_TYPE_ACCEPT_QUEST,
-	CS_DLG_TYPE_SUBMIT_QUEST
-}

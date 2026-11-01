@@ -1,8 +1,0 @@
-namespace cs_msg;
-
-public enum EFlashCardExchangeDisplayType
-{
-	RES_FLASH_CARD_MINIFIGURE_EXCHANGE,
-	RES_FLASH_CARD_GENERAL_EXCHANGE_1,
-	RES_FLASH_CARD_GENERAL_EXCHANGE_2
-}

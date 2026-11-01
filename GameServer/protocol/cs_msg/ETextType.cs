@@ -1,9 +1,0 @@
-namespace cs_msg;
-
-public enum ETextType
-{
-	CS_BROADCAST_TYPE_COMMON = 1,
-	CS_BROADCAST_TYPE_MODE,
-	CS_BROADCAST_TYPE_DEATH,
-	CS_BROADCAST_TYPE_LOBBY
-}

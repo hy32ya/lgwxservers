@@ -1,8 +1,0 @@
-namespace cs_msg;
-
-public enum ECSRoomExtendInfoType
-{
-	CS_ROOM_EXTEND_INFO_DEFAULT,
-	CS_ROOM_EXTEND_INFO_FRIEND,
-	CS_ROOM_EXTEND_INFO_SUBSCRIBE
-}

@@ -1,6 +1,0 @@
-namespace cs_msg;
-
-public enum ECSVehicleSpecialAction_VehicleSpecialActionMeleeAttackAttrType
-{
-	CS_VehicleSpecialAction_VehicleSpecialActionMeleeAttack_cooldownTime = 1
-}

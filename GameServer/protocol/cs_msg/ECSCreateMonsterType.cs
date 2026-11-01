@@ -1,8 +1,0 @@
-namespace cs_msg;
-
-public enum ECSCreateMonsterType
-{
-	CS_CREATE_MONSTER_DEFAULT,
-	CS_CREATE_MONSTER_EX,
-	CS_CREATE_MONSTER_SURVIVAL
-}

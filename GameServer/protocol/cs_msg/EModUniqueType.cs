@@ -1,9 +1,0 @@
-namespace cs_msg;
-
-public enum EModUniqueType
-{
-	RES_MOD_UNIQUE_TYPE_NONE,
-	RES_MOD_UNIQUE_TYPE_FTSC,
-	RES_MOD_UNIQUE_TYPE_NCWY,
-	RES_MOD_UNIQUE_TYPE_HYRZ
-}

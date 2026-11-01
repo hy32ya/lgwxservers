@@ -1,9 +1,0 @@
-namespace cs_msg;
-
-public enum CS_MAIL_TYPE
-{
-	CS_MAIL_TYPE_SYS = 1,
-	CS_MAIL_TYPE_FRIEND,
-	CS_MAIL_TYPE_UNION,
-	CS_MAIL_TYPE_MAX
-}

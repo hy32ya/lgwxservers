@@ -1,9 +1,0 @@
-namespace cs_msg;
-
-public enum ECSWorkCopyReasonType
-{
-	CS_WORK_COPY_FOR_ADD_MOD,
-	CS_WORK_COPY_FOR_SWITCH_ON_SVR_ROOM,
-	CS_WORK_COPY_FOR_PLAYER_MANUAL,
-	CS_WORK_COPY_REASON_MAX
-}

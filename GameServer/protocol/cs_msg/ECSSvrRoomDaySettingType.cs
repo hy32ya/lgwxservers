@@ -1,9 +1,0 @@
-namespace cs_msg;
-
-public enum ECSSvrRoomDaySettingType
-{
-	CS_SVR_ROOM_DAY_SETTING_30 = 1,
-	CS_SVR_ROOM_DAY_SETTING_60,
-	CS_SVR_ROOM_DAY_SETTING_90,
-	CS_SVR_ROOM_DAY_SETTING_180
-}

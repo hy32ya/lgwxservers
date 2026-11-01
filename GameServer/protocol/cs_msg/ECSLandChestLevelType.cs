@@ -1,9 +1,0 @@
-namespace cs_msg;
-
-public enum ECSLandChestLevelType
-{
-	CS_LAND_CHEST_LEVEL_NULL,
-	CS_LAND_CHEST_LEVEL_LOW,
-	CS_LAND_CHEST_LEVEL_MID,
-	CS_LAND_CHEST_LEVEL_HIGH
-}

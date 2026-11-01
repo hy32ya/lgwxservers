@@ -1,6 +1,0 @@
-namespace cs_msg;
-
-public enum ECSVehicleSpecialAction_VehicleSpecialActionDashAttrType
-{
-	CS_VehicleSpecialAction_VehicleSpecialActionDash_cooldownTime = 1
-}
