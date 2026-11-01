@@ -1,3 +1,4 @@
+// 本地服务端入口：账号、地图与游戏连接。
 using System.Collections.Concurrent;
 using System.Net;
 using System.Net.Sockets;
