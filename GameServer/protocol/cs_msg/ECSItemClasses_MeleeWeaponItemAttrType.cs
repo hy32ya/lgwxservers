@@ -1,0 +1,13 @@
+namespace cs_msg;
+
+public enum ECSItemClasses_MeleeWeaponItemAttrType
+{
+	CS_ItemClasses_MeleeWeaponItem_physicalAttack = 1,
+	CS_ItemClasses_MeleeWeaponItem_magicAttack,
+	CS_ItemClasses_MeleeWeaponItem_efficiencyProper,
+	CS_ItemClasses_MeleeWeaponItem_durability,
+	CS_ItemClasses_MeleeWeaponItem_skillID1,
+	CS_ItemClasses_MeleeWeaponItem_skillID2,
+	CS_ItemClasses_MeleeWeaponItem_skillID3,
+	CS_ItemClasses_MeleeWeaponItem_damageType
+}

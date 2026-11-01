@@ -1,0 +1,15 @@
+namespace cs_msg;
+
+public enum ECSItemClasses_RangedWeaponItemAttrType
+{
+	CS_ItemClasses_RangedWeaponItem_projectileClass = 1,
+	CS_ItemClasses_RangedWeaponItem_damageType,
+	CS_ItemClasses_RangedWeaponItem_physicalAttack,
+	CS_ItemClasses_RangedWeaponItem_magicAttack,
+	CS_ItemClasses_RangedWeaponItem_durability,
+	CS_ItemClasses_RangedWeaponItem_reloadTime,
+	CS_ItemClasses_RangedWeaponItem_spread,
+	CS_ItemClasses_RangedWeaponItem_consumeMode,
+	CS_ItemClasses_RangedWeaponItem_magazineBulletID,
+	CS_ItemClasses_RangedWeaponItem_magazineMaxBulletCount
+}
