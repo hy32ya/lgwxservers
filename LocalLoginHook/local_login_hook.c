@@ -1,4 +1,5 @@
 /* Copyright (c) 2026 星海游戏HY32 */
+/* 接管本地登录，业务请求沿用原客户端流程。 */
 typedef unsigned char u8;
 typedef unsigned int u32;
 typedef unsigned int size_t;
