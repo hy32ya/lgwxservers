@@ -1,0 +1,8 @@
+namespace cs_msg;
+
+public enum ECSSurvivalGameLevel
+{
+	CS_SURVIVAL_GAME_LEVEL_SIMPLE,
+	CS_SURVIVAL_GAME_LEVEL_NORMAL,
+	CS_SURVIVAL_GAME_LEVEL_DIFFICULT
+}
