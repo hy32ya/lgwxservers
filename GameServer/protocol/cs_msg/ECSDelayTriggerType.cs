@@ -1,0 +1,7 @@
+namespace cs_msg;
+
+public enum ECSDelayTriggerType
+{
+	CS_DELAY_TRIGGER_TYPE_BUTTON_REBOUND = 1,
+	CS_DELAY_TRIGGER_TYPE_PLATE_REBOUND
+}
