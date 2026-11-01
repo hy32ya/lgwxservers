@@ -1,0 +1,9 @@
+namespace cs_msg;
+
+public enum CSDlgOptionType
+{
+	CS_DLG_OPT_TYPE_UNDEFINE,
+	CS_DLG_OPT_TYPE_ARROW,
+	CS_DLG_OPT_TYPE_BUTTON,
+	CS_DLG_OPT_TYPE_CHECKBOX
+}
