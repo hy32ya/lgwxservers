@@ -1,0 +1,18 @@
+{
+  "_t": "ServerUtil, Assembly-CSharp",
+  "serverKeyID": "119",
+  "serList": [
+    {
+      "_t": "ServerDesc, Assembly-CSharp",
+      "keyID": "119",
+      "name": "本地服务器",
+      "serverUrl": "",
+      "serverTypeID": "100000",
+      "serverZoneID": "11",
+      "serverID": "0",
+      "encrypt": "1",
+      "imgServerUrl": "http://183.57.50.47/cube/0/",
+      "rankZoneID": "1001"
+    }
+  ]
+}

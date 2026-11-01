@@ -1,0 +1,9 @@
+namespace cs_msg;
+
+public enum CS_MAIL_ARG_TYPE
+{
+	CS_MAIL_ARG_INT = 1,
+	CS_MAIL_ARG_STR,
+	CS_MAIL_ARG_LINK,
+	CS_MAIL_ARG_FASHIONID
+}

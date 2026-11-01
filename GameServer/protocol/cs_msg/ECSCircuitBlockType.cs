@@ -1,0 +1,10 @@
+namespace cs_msg;
+
+public enum ECSCircuitBlockType
+{
+	CS_BLOCK_TYPE_NORMAL,
+	CS_BLOCK_TYPE_BOX,
+	CS_BLOCK_TYPE_SHOWCASE,
+	CS_BLOCK_TYPE_RECOVERY,
+	CS_BLOCK_TYPE_BILLBOARD
+}

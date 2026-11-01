@@ -1,0 +1,8 @@
+namespace cs_msg;
+
+public enum ECSTreasureBoxDisappearReason
+{
+	CS_TREASURE_BOX_OPENED = 1,
+	CS_TREASURE_BOX_DESTROYED_TIMEOUT,
+	CS_TREASURE_BOX_DESTROYED_SYSTEM
+}

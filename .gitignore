@@ -1,0 +1,14 @@
+.build/
+/docs/
+**/bin/
+**/obj/
+**/__pycache__/
+*.pyc
+GameServer/data/
+GameServer/logs/
+ClientConfig/ServerBetaList.txt
+ClientConfig/ServerBetaList.json
+ClientConfig/local_server.txt
+*.apk
+*.zip
+*.log

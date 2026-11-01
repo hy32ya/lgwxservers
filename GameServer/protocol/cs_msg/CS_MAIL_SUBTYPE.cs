@@ -1,0 +1,7 @@
+namespace cs_msg;
+
+public enum CS_MAIL_SUBTYPE
+{
+	CS_MAIL_SUBTYPE_CUSTOM = 1,
+	CS_MAIL_SUBTYPE_PREDEFINE
+}

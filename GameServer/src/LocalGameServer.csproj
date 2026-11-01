@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>LocalGameServer</AssemblyName>
+    <Version>1.0.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <InformationalVersion>v1.0.0.0</InformationalVersion>
+    <Authors>星海游戏HY32</Authors>
+    <Company>星海游戏HY32</Company>
+    <Copyright>Copyright (c) 2026 星海游戏HY32</Copyright>
+    <DefaultItemExcludes>$(DefaultItemExcludes);bin/**;obj/**</DefaultItemExcludes>
+  </PropertyGroup>
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+    <ProjectReference Include="../protocol/ClientProtocol.csproj" />
+    <EmbeddedResource Include="../resources/world-catalog.json" LogicalName="LocalGameServer.WorldCatalog" />
+  </ItemGroup>
+</Project>

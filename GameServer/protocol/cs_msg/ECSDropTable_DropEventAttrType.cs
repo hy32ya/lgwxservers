@@ -1,0 +1,16 @@
+namespace cs_msg;
+
+public enum ECSDropTable_DropEventAttrType
+{
+	CS_DropTable_DropEvent_dropType = 1,
+	CS_DropTable_DropEvent_dropOption1ID,
+	CS_DropTable_DropEvent_dropOption1Factor,
+	CS_DropTable_DropEvent_dropOption2ID,
+	CS_DropTable_DropEvent_dropOption2Factor,
+	CS_DropTable_DropEvent_dropOption3ID,
+	CS_DropTable_DropEvent_dropOption3Factor,
+	CS_DropTable_DropEvent_dropOption4ID,
+	CS_DropTable_DropEvent_dropOption4Factor,
+	CS_DropTable_DropEvent_dropOption5ID,
+	CS_DropTable_DropEvent_dropOption5Factor
+}

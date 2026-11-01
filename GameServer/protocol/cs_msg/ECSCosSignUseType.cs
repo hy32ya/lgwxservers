@@ -1,0 +1,12 @@
+namespace cs_msg;
+
+public enum ECSCosSignUseType
+{
+	CS_COS_PRIVATE = 1,
+	CS_COS_PUBLISH,
+	CS_COS_BACKUP,
+	CS_COS_DEBUG,
+	CS_COS_PUBLISH_MOD,
+	CS_COS_CLOUD_ARCHIVE,
+	CS_COS_USE_TYPE_MAX
+}

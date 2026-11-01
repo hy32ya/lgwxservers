@@ -1,0 +1,16 @@
+namespace cs_msg;
+
+public enum ECSItemClasses_EquipmentItemAttrType
+{
+	CS_ItemClasses_EquipmentItem_durability = 1,
+	CS_ItemClasses_EquipmentItem_ModifierType1,
+	CS_ItemClasses_EquipmentItem_ModifierOpt1,
+	CS_ItemClasses_EquipmentItem_ModifierValue1,
+	CS_ItemClasses_EquipmentItem_ModifierType2,
+	CS_ItemClasses_EquipmentItem_ModifierOpt2,
+	CS_ItemClasses_EquipmentItem_ModifierValue2,
+	CS_ItemClasses_EquipmentItem_ModifierType3,
+	CS_ItemClasses_EquipmentItem_ModifierOpt3,
+	CS_ItemClasses_EquipmentItem_ModifierValue3,
+	CS_ItemClasses_EquipmentItem_bagExtendSize
+}

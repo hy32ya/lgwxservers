@@ -1,0 +1,11 @@
+namespace cs_msg;
+
+public enum ECSBanType
+{
+	CS_BAN_TYPE_TALK = 1,
+	CS_BAN_TYPE_COMMENT,
+	CS_BAN_TYPE_GAME,
+	CS_BAN_TYPE_SURVIVAL,
+	CS_BAN_TYPE_UGC,
+	CS_BAN_TYPE_EDIT
+}

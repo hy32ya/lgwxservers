@@ -1,0 +1,9 @@
+namespace cs_msg;
+
+public enum ECSCurrencyType
+{
+	CS_CURRENCY_INGAME_COIN,
+	CS_CURRENCY_DIAMOND,
+	CS_CURRENCY_GOLD,
+	CS_CURRENCY_COUPON
+}

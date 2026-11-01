@@ -1,0 +1,15 @@
+namespace cs_msg;
+
+public enum ECSMoveType
+{
+	CS_MOVE_NONE,
+	CS_MOVE_WALK,
+	CS_MOVE_RUN,
+	CS_MOVE_SPRINT,
+	CS_MOVE_SWIM,
+	CS_MOVE_JUMP,
+	CS_MOVE_HOOK,
+	CS_MOVE_JETPACK,
+	CS_MOVE_PILOT,
+	CS_MOVE_VEHICLE
+}

@@ -1,0 +1,10 @@
+namespace cs_msg;
+
+public enum CS_WEAR_POSITION
+{
+	CS_WEAR_POS_HEAD,
+	CS_WEAR_POS_BODY,
+	CS_WEAR_POS_BACK,
+	CS_WEAR_POS_FOOT,
+	CS_WEAR_POS_BAG
+}

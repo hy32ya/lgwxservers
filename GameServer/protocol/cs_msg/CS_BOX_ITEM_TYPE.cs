@@ -1,0 +1,8 @@
+namespace cs_msg;
+
+public enum CS_BOX_ITEM_TYPE
+{
+	CS_BOX_ITEM_TYPE_DEFAULT = 0,
+	CS_BOX_ITEM_TYPE_MATERIAL = 62,
+	CS_BOX_ITEM_TYPE_FUEL = 63
+}

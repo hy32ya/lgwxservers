@@ -1,0 +1,9 @@
+namespace cs_msg;
+
+public enum ECSLegoZoneBuildingRotateType
+{
+	CS_ZONE_BUILDING_ROTATE_0,
+	CS_ZONE_BUILDING_ROTATE_90,
+	CS_ZONE_BUILDING_ROTATE_180,
+	CS_ZONE_BUILDING_ROTATE_270
+}

@@ -1,0 +1,42 @@
+namespace cs_msg;
+
+public class MACROS_CS_RANK
+{
+	public const int CS_MAX_ATTR_RANK_PLAYER_COUNT = 100;
+
+	public const int CS_MAX_FRIEND_ACHIV_RANK_COUNT = 10;
+
+	public const int CS_ATTR_RANK_TYPE_MIN = 10700;
+
+	public const int CS_ATTR_RANK_TYPE_ACHIEVEMENT_INTEGRAL = 10701;
+
+	public const int CS_ATTR_RANK_TYPE_SURVIVAL_INTEGRAL = 10702;
+
+	public const int CS_ATTR_RANK_TYPE_UGC_INTEGRAL = 10703;
+
+	public const int CS_ATTR_RANK_TYPE_COLLECT_INTEGRAL = 10704;
+
+	public const int CS_ATTR_RANK_TYPE_WORK_DOWNLOAD_COUNT = 10705;
+
+	public const int CS_ATTR_RANK_TYPE_WORK_FAVORITE_COUNT = 10706;
+
+	public const int CS_ATTR_RANK_TYPE_WORK_PLAY_COUNT = 10707;
+
+	public const int CS_ATTR_RANK_TYPE_WORK_GOOD_COMMENT_COUNT = 10708;
+
+	public const int CS_ATTR_RANK_TYPE_WORK_PLAY_TIME = 10709;
+
+	public const int CS_ATTR_RANK_TYPE_LEGOZONE_MAX_PROSPERITY = 10710;
+
+	public const int CS_ATTR_RANK_TYPE_LEGOZONE_COLLECTION_VALUE = 10711;
+
+	public const int CS_ATTR_RANK_TYPE_LEGOZONE_POPULARITY = 10712;
+
+	public const int CS_ATTR_RANK_TYPE_LEGOLAND_LEVEL = 10713;
+
+	public const int CS_ATTR_RANK_TYPE_MAX = 10714;
+
+	public const int CS_ATTR_RANK_RANGE_ALL_SERVER = 1;
+
+	public const int CS_ATTR_RANK_RANGE_FRIEND = 2;
+}

@@ -1,0 +1,7 @@
+namespace cs_msg;
+
+public enum CS_ENCHANT_ENALBE
+{
+	CS_REQ_ENCHANT_DISENALBE,
+	CS_REQ_ENCHANT_ENALBE
+}

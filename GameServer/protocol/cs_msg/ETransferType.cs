@@ -1,0 +1,9 @@
+namespace cs_msg;
+
+public enum ETransferType
+{
+	RES_TRANSFER_TYPE_UNDEFINE,
+	RES_TRANSFER_TYPE_INNER,
+	RES_TRANSFER_TYPE_MAIN,
+	RES_TRANSFER_TYPE_RAID
+}

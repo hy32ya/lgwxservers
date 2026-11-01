@@ -1,0 +1,8 @@
+namespace cs_msg;
+
+public enum ECSDiyVehicleChangeReason
+{
+	CS_DIYV_CHANGE_REASON_UNDEFINE,
+	CS_DIYV_CHANGE_REASON_REPLACE,
+	CS_DIYV_CHANGE_REASON_DEL
+}

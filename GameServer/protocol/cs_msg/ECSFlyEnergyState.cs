@@ -1,0 +1,8 @@
+namespace cs_msg;
+
+public enum ECSFlyEnergyState
+{
+	CS_FLY_ENERGY_STATE_RECOVER = 1,
+	CS_FLY_ENERGY_STATE_STILL,
+	CS_FLY_ENERGY_STATE_CONSUME
+}

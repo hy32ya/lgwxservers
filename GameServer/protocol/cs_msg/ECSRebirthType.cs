@@ -1,0 +1,9 @@
+namespace cs_msg;
+
+public enum ECSRebirthType
+{
+	CS_REBIRTH_ORIGINAL_POINT = 1,
+	CS_REBIRTH_DEAD_POINT,
+	CS_REBIRTH_NEAR_POINT,
+	CS_REBIRTH_UGC_TRIGGER
+}

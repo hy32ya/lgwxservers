@@ -1,0 +1,8 @@
+namespace cs_msg;
+
+public enum ECSFlashCardExchangeType
+{
+	CS_FLASH_CARD_MINIFIGURE_EXCHANGE,
+	CS_FLASH_CARD_GENERAL_EXCHANGE_1,
+	CS_FLASH_CARD_GENERAL_EXCHANGE_2
+}

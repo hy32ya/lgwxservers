@@ -1,0 +1,8 @@
+namespace cs_msg;
+
+public enum ECSBlockIDUpdateEvent
+{
+	CS_BLOCKID_UPDATE_DOOR = 1,
+	CS_BLOCKID_UPDATE_CULTIVATE,
+	CS_BLOCKID_UPDATE_FURNACE
+}
