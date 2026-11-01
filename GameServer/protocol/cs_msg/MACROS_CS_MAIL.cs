@@ -1,0 +1,174 @@
+namespace cs_msg;
+
+public class MACROS_CS_MAIL
+{
+	public const int CS_MAIL_ATTACH_COUNT = 5;
+
+	public const int CS_MAIL_TITLE_LEN = 64;
+
+	public const int CS_MAIL_CONTENT_LEN = 1024;
+
+	public const int CS_MAIL_MAX_COUNT = 100;
+
+	public const int CS_MAIL_ARG_STR_LEN = 40;
+
+	public const int CS_MAIL_ARG_LINK_LEN = 60;
+
+	public const int CS_MAIL_ARG_COUNT = 10;
+
+	public const int CS_MAIL_TYPE_SYS = 1;
+
+	public const int CS_MAIL_TYPE_FRIEND = 2;
+
+	public const int CS_MAIL_TYPE_UNION = 3;
+
+	public const int CS_MAIL_TYPE_MAX = 4;
+
+	public const int CS_MAIL_SUBTYPE_CUSTOM = 1;
+
+	public const int CS_MAIL_SUBTYPE_PREDEFINE = 2;
+
+	public const int CS_MAIL_TITLE_TASK_ID = 49110002;
+
+	public const int CS_MAIL_TITLE_ACHV_ID = 49110003;
+
+	public const int CS_MAIL_TITLE_GIFT_BAG_ID = 49110004;
+
+	public const int CS_MAIL_TITLE_SIGN_BAG_FULL = 49110006;
+
+	public const int CS_MAIL_TITLE_REFUSE_WORK_PUBLISH = 49110028;
+
+	public const int CS_MAIL_TITLE_FASHION_TIMEOUT = 49110030;
+
+	public const int CS_MAIL_TITLE_CDKEY = 49110034;
+
+	public const int CS_MAIL_TITLE_DAILY_SHARE = 49110035;
+
+	public const int CS_MAIL_TITLE_NEWBIT_TASK = 49110038;
+
+	public const int CS_MAIL_TITLE_CAREER = 49110039;
+
+	public const int CS_MAIL_TITLE_PRIVILEGE_LOGIN = 49110040;
+
+	public const int CS_MAIL_TITLE_PRIVILEGE_CON_LOGIN = 49110041;
+
+	public const int CS_MAIL_TITLE_PRIVILEGE_DAY = 49110042;
+
+	public const int CS_MAIL_TITLE_CREATOR_ID = 49110047;
+
+	public const int CS_MAIL_TITLE_LEGOSET_ID = 49110048;
+
+	public const int CS_MAIL_TITLE_CLASSIC_WORK_ID = 49110050;
+
+	public const int CS_MAIL_TITLE_SVR_ROOM_CREATE_ID = 49110051;
+
+	public const int CS_MAIL_TITLE_SVR_ROOM_RENEWAL_ID = 49110052;
+
+	public const int CS_MAIL_TITLE_SVR_ROOM_EXPIRED_ID = 49110053;
+
+	public const int CS_MAIL_TITLE_WISH_ID = 49110060;
+
+	public const int CS_MAIL_TITLE_GLOABLE_PRIZE_ID = 49110061;
+
+	public const int CS_MAIL_TITLE_INVITE_PLAYER_PRIZE_ID = 49110062;
+
+	public const int CS_MAIL_TITLE_SUCC_INVITE_PRIZE_ID = 49110063;
+
+	public const int CS_MAIL_TITLE_OLD_PLAYER_PRIZE_ID = 49110064;
+
+	public const int CS_MAIL_TITLE_FRIEND_GIVE_FLASH_CARD = 49110065;
+
+	public const int CS_MAIL_TITLE_LOTTERY_STORAGE_IS_FULL = 49110067;
+
+	public const int CS_MAIL_TITLE_LEGO_ZONE = 49110068;
+
+	public const int CS_MAIL_TITLE_CHINESE_NEW_YEAR_ID = 49110069;
+
+	public const int CS_MAIL_TITLE_ZONE_THEATER_REWARD = 49110070;
+
+	public const int CS_MAIL_TITLE_NEW_BATTLEPASS_SEASON = 49110071;
+
+	public const int CS_MAIL_TITLE_MAY_DAY_ACTIVITY_ID = 49110073;
+
+	public const int CS_MAIL_TITLE_LAND_REIMBURSE = 49119999;
+
+	public const int CS_MAIL_TITLE_NEW_BATTLEPASS = 491100712;
+
+	public const int CS_MAIL_CONTENT_TASK_ID = 49120002;
+
+	public const int CS_MAIL_CONTENT_ACHV_ID = 49120003;
+
+	public const int CS_MAIL_CONTENT_GIFT_BAG_ID = 49120004;
+
+	public const int CS_MAIL_CONTENT_SIGN_BAG_FULL = 49120006;
+
+	public const int CS_MAIL_CONTENT_REFUSE_WORK_PUBLISH = 49120028;
+
+	public const int CS_MAIL_CONTENT_FASHION_TIMEOUT = 49120030;
+
+	public const int CS_MAIL_CONTENT_CDKEY = 49120034;
+
+	public const int CS_MAIL_CONTENT_DAILY_SHARE = 49120035;
+
+	public const int CS_MAIL_CONTENT_NEWBIT_TASK = 49120038;
+
+	public const int CS_MAIL_CONTENT_CAREER = 49120039;
+
+	public const int CS_MAIL_CONTENT_PRIVILEGE_LOGIN = 49120040;
+
+	public const int CS_MAIL_CONTENT_PRIVILEGE_CON_LOGIN = 49120041;
+
+	public const int CS_MAIL_CONTENT_PRIVILEGE_DAY = 49120042;
+
+	public const int CS_MAIL_CONTENT_CREATOR_ID = 49120047;
+
+	public const int CS_MAIL_CONTENT_LEGOSET_ID = 49120048;
+
+	public const int CS_MAIL_CONTENT_CLASSIC_WORK_ID = 49120050;
+
+	public const int CS_MAIL_CONTENT_SVR_ROOM_CREATE_ID = 49120051;
+
+	public const int CS_MAIL_CONTENT_SVR_ROOM_RENEWAL_ID = 49120052;
+
+	public const int CS_MAIL_CONTENT_SVR_ROOM_EXPIRED_ID = 49120053;
+
+	public const int CS_MAIL_CONTENT_WISH_ID = 49120060;
+
+	public const int CS_MAIL_CONTENT_GLOABLE_PRIZE_ID = 49120061;
+
+	public const int CS_MAIL_CONTENT_INVITE_PLAYER_PRIZE_ID = 49120062;
+
+	public const int CS_MAIL_CONTENT_SUCC_INVITE_PRIZE_ID = 49120063;
+
+	public const int CS_MAIL_CONTENT_OLD_PLAYER_PRIZE_ID = 49120064;
+
+	public const int CS_MAIL_CONTENT_FRIEND_GIVE_FLASH_CARD = 49120065;
+
+	public const int CS_MAIL_CONTENT_LOTTERY_STORAGE_IS_FULL = 49120067;
+
+	public const int CS_MAIL_CONTENT_LEGO_ZONE = 49120068;
+
+	public const int CS_MAIL_CONTENT_CHINESE_NEW_YEAR = 49120069;
+
+	public const int CS_MAIL_CONTENT_ZONE_THEATER_REWARD = 49120070;
+
+	public const int CS_MAIL_CONTENT_NEW_BATTLEPASS_SEASON = 49120071;
+
+	public const int CS_MAIL_CONTENT_NEW_BATTLEPASS = 49120072;
+
+	public const int CS_MAIL_CONTENT_MAY_DAY_ACTIVITY = 49120073;
+
+	public const int CS_MAIL_CONTENT_LAND_REIMBURSE = 49129999;
+
+	public const int CS_MAIL_STATUS_NEW = 0;
+
+	public const int CS_MAIL_STATUS_HAVEREAD = 1;
+
+	public const int CS_MAIL_ARG_INT = 1;
+
+	public const int CS_MAIL_ARG_STR = 2;
+
+	public const int CS_MAIL_ARG_LINK = 3;
+
+	public const int CS_MAIL_ARG_FASHIONID = 4;
+}
