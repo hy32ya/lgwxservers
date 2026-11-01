@@ -1,0 +1,8 @@
+namespace cs_msg;
+
+public enum CS_PV_PANEL_STATUS_TYPE
+{
+	CS_PV_PANEL_STATUS_NONE,
+	CS_PV_PANEL_STATUS_HALF,
+	CS_PV_PANEL_STATUS_FULL
+}
