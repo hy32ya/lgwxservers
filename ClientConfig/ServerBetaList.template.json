@@ -5,7 +5,7 @@
     {
       "_t": "ServerDesc, Assembly-CSharp",
       "keyID": "119",
-      "name": "本地服务器",
+      "name": "本地服务器（先配置 IP）",
       "serverUrl": "",
       "serverTypeID": "100000",
       "serverZoneID": "11",
