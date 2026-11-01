@@ -1,0 +1,9 @@
+namespace cs_msg;
+
+public enum EAchvIntegral
+{
+	RES_ACHV_INTEGRAL_SURVIVAL = 1,
+	RES_ACHV_INTEGRAL_UGC,
+	RES_ACHV_INTEGRAL_EDIT,
+	RES_ACHV_INTEGRAL_COL
+}
