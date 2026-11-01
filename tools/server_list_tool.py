@@ -1,4 +1,4 @@
-"""修改服务器地址，并加解密客户端服务器列表。"""
+"""配置服务器与登录地址，支持服务器列表加解密。"""
 import argparse
 import ipaddress
 import json
