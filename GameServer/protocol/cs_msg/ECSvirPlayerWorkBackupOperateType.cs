@@ -1,0 +1,8 @@
+namespace cs_msg;
+
+public enum ECSvirPlayerWorkBackupOperateType
+{
+	VIR_PLAYER_OPERATE_WORK_FOR_BACKUP,
+	VIR_PLAYER_OPERATE_WORK_FOR_RECOVER,
+	VIR_PLAYER_OPERATE_WORK_FOR_DELETE
+}
