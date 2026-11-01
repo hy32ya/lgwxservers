@@ -1,0 +1,9 @@
+namespace cs_msg;
+
+public enum ECSPlatPrivilegeType
+{
+	CS_PLAT_PRIVILEGE_QQ_VIP = 1,
+	CS_PLAT_PRIVILEGE_QQ_SUPER_VIP,
+	CS_PLAT_PRIVILEGE_QQ_START,
+	CS_PLAT_PRIVILEGE_WX_START
+}

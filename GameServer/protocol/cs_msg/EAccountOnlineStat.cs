@@ -1,0 +1,9 @@
+namespace cs_msg;
+
+public enum EAccountOnlineStat
+{
+	PLAYER_ACCOUNT_OFFLINE,
+	PLAYER_ACCOUNT_ONLINE,
+	PLAYER_ACCOUNT_GAMING,
+	PLAYER_ACCOUNT_TEAM
+}
