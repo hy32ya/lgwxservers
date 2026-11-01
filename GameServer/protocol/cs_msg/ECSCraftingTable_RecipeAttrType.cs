@@ -1,0 +1,23 @@
+namespace cs_msg;
+
+public enum ECSCraftingTable_RecipeAttrType
+{
+	CS_CraftingTable_Recipe_ID = 1,
+	CS_CraftingTable_Recipe_WorkbenchItem1,
+	CS_CraftingTable_Recipe_WorkbenchItem2,
+	CS_CraftingTable_Recipe_WorkbenchItem3,
+	CS_CraftingTable_Recipe_TargetID,
+	CS_CraftingTable_Recipe_TargetCount,
+	CS_CraftingTable_Recipe_Tag1,
+	CS_CraftingTable_Recipe_SourceID1,
+	CS_CraftingTable_Recipe_Count1,
+	CS_CraftingTable_Recipe_Tag2,
+	CS_CraftingTable_Recipe_SourceID2,
+	CS_CraftingTable_Recipe_Count2,
+	CS_CraftingTable_Recipe_Tag3,
+	CS_CraftingTable_Recipe_SourceID3,
+	CS_CraftingTable_Recipe_Count3,
+	CS_CraftingTable_Recipe_Tag4,
+	CS_CraftingTable_Recipe_SourceID4,
+	CS_CraftingTable_Recipe_Count4
+}

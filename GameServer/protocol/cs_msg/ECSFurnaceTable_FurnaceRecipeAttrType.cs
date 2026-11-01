@@ -1,0 +1,21 @@
+namespace cs_msg;
+
+public enum ECSFurnaceTable_FurnaceRecipeAttrType
+{
+	CS_FurnaceTable_FurnaceRecipe_ID = 1,
+	CS_FurnaceTable_FurnaceRecipe_WorkbenchItem1,
+	CS_FurnaceTable_FurnaceRecipe_WorkbenchItem2,
+	CS_FurnaceTable_FurnaceRecipe_WorkbenchItem3,
+	CS_FurnaceTable_FurnaceRecipe_ProgressTime,
+	CS_FurnaceTable_FurnaceRecipe_TargetID,
+	CS_FurnaceTable_FurnaceRecipe_TargetCount,
+	CS_FurnaceTable_FurnaceRecipe_MaterialTag1,
+	CS_FurnaceTable_FurnaceRecipe_MaterialID1,
+	CS_FurnaceTable_FurnaceRecipe_MaterialCount1,
+	CS_FurnaceTable_FurnaceRecipe_MaterialTag2,
+	CS_FurnaceTable_FurnaceRecipe_MaterialID2,
+	CS_FurnaceTable_FurnaceRecipe_MaterialCount2,
+	CS_FurnaceTable_FurnaceRecipe_MaterialTag3,
+	CS_FurnaceTable_FurnaceRecipe_MaterialID3,
+	CS_FurnaceTable_FurnaceRecipe_MaterialCount3
+}
